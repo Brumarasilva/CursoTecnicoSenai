@@ -1,5 +1,5 @@
 # CursoTecnicoSenai
-##programação##
+## Programação
 
 essas atividades foram realizadas na unidade curricular de programação.
 
