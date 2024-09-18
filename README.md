@@ -1,6 +1,6 @@
 # CursoTecnicoSenai
 ## Programação
 
-essas atividades foram realizadas na unidade curricular de programação.
+Essas atividades foram realizadas na unidade curricular de programação.
 
-foi usada a linguagem de programação c# 
+Foi usada a linguagem de programação c# .
